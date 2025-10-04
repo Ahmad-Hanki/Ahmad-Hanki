@@ -1,5 +1,5 @@
 # Hello, i'm Ahmad Hanki.
-I'm currently working and studying. I work as a software engineer and study computer engineering.
+I work as a software engineer, and I have a degree in computer engineering..
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xviiu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hanki-798128287/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rvazs) 
